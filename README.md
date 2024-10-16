@@ -8,7 +8,7 @@
 
 ### 业务架构
 
-![image-20241016163651087](.\markdown-img\architecture.png)
+![image-20241016163651087](./markdown-img/architecture.png)
 
 ### 系统架构
 
@@ -18,7 +18,7 @@
 
 3. 服务中的查询操作先查询Redis缓存，Redis缓存中没有才会去查询Mysql数据库，设置了一主二从的Redis服务，通过三个哨兵对Redis监听。
 
-![sys](.\markdown-img\system-arch.png)
+![sys](./markdown-img/system-arch.png)
 
 
 
@@ -26,11 +26,11 @@
 
 ### 功能模块划分
 
-![function](.\markdown-img\function.png)
+![function](./markdown-img/function.png)
 
 ### 业务使用流程
 
-![activity](.\activity-diagram.png)
+![activity](./activity-diagram.png)
 
 
 
@@ -40,16 +40,16 @@
 
 ## 界面展示
 
-![show-1](.\markdown-img\image-1.png)
+![show-1](./markdown-img/image-1.png)
 
 
 
-![show-2](.\markdown-img\image-2.png)
+![show-2](./markdown-img/image-2.png)
 
 
 
-![show-3](.\markdown-img\image-3.png)
+![show-3](./markdown-img/image-3.png)
 
 
 
-![show-4](.\markdown-img\image-4.png)
+![show-4](./markdown-img/image-4.png)
