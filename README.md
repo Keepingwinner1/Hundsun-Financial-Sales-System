@@ -30,7 +30,7 @@
 
 ### 业务使用流程
 
-![activity](./activity-diagram.png)
+![activity](./markdown-img/activity-diagram.png)
 
 
 
